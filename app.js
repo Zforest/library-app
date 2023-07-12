@@ -9,6 +9,15 @@ class Book {
     }
 }
 
-function addBookToLibrary () {
+/*
+Function to add a book to the library
+Needs to take user input (title, author, pages, read)
+When submitted it will store this book and it's information in the array
+
+
+*/
+
+function addBookToLibrary(newBook) {
     // do stuff here
 }
+
